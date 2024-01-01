@@ -9,3 +9,21 @@ C:\Users\Anibal Yañez\Desktop\proyecto personal\App\PersonasApp\Src\Personas.Do
 C:\Users\Anibal Yañez\Desktop\proyecto personal\App\PersonasApp\Src\Personas.Domain\obj\Debug\net8.0\refint\Personas.Domain.dll
 C:\Users\Anibal Yañez\Desktop\proyecto personal\App\PersonasApp\Src\Personas.Domain\obj\Debug\net8.0\Personas.Domain.pdb
 C:\Users\Anibal Yañez\Desktop\proyecto personal\App\PersonasApp\Src\Personas.Domain\obj\Debug\net8.0\ref\Personas.Domain.dll
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Domain\bin\Debug\net8.0\Personas.Domain.deps.json
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Domain\bin\Debug\net8.0\Personas.Domain.dll
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Domain\bin\Debug\net8.0\Personas.Domain.pdb
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Domain\bin\Debug\net8.0\Personas.Domain.Core.dll
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Domain\bin\Debug\net8.0\Personas.Infra.CrossCutting.Bus.dll
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Domain\bin\Debug\net8.0\Personas.Domain.Core.pdb
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Domain\bin\Debug\net8.0\Personas.Infra.CrossCutting.Bus.pdb
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Domain\obj\Debug\net8.0\Personas.Domain.csproj.AssemblyReference.cache
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Domain\obj\Debug\net8.0\Personas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Domain\obj\Debug\net8.0\Personas.Domain.AssemblyInfoInputs.cache
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Domain\obj\Debug\net8.0\Personas.Domain.AssemblyInfo.cs
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Domain\obj\Debug\net8.0\Personas.Domain.csproj.CoreCompileInputs.cache
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Domain\obj\Debug\net8.0\Personas.Domain.sourcelink.json
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Domain\obj\Debug\net8.0\Personas.Domain.csproj.CopyComplete
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Domain\obj\Debug\net8.0\Personas.Domain.dll
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Domain\obj\Debug\net8.0\refint\Personas.Domain.dll
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Domain\obj\Debug\net8.0\Personas.Domain.pdb
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Domain\obj\Debug\net8.0\ref\Personas.Domain.dll

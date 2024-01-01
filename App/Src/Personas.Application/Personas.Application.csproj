@@ -6,4 +6,13 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="12.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Personas.Domain\Personas.Domain.csproj" />
+    <ProjectReference Include="..\Personas.Infra.Data.PostgreSQL\Personas.Infra.Data.PostgreSQL.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\git-anibaliym\\PersonasApp\\App\\Src\\Personas.Domain\\Personas.Domain.csproj": {}
+    "C:\\git-anibaliym\\Desarrollo\\App\\Src\\Personas.Domain\\Personas.Domain.csproj": {}
   },
   "projects": {
-    "C:\\git-anibaliym\\PersonasApp\\App\\Src\\Personas.Domain\\Personas.Domain.csproj": {
+    "C:\\git-anibaliym\\Desarrollo\\App\\Src\\Personas.Domain.Core\\Personas.Domain.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\git-anibaliym\\PersonasApp\\App\\Src\\Personas.Domain\\Personas.Domain.csproj",
-        "projectName": "Personas.Domain",
-        "projectPath": "C:\\git-anibaliym\\PersonasApp\\App\\Src\\Personas.Domain\\Personas.Domain.csproj",
+        "projectUniqueName": "C:\\git-anibaliym\\Desarrollo\\App\\Src\\Personas.Domain.Core\\Personas.Domain.Core.csproj",
+        "projectName": "Personas.Domain.Core",
+        "projectPath": "C:\\git-anibaliym\\Desarrollo\\App\\Src\\Personas.Domain.Core\\Personas.Domain.Core.csproj",
         "packagesPath": "C:\\Users\\Anibal Yañez\\.nuget\\packages\\",
-        "outputPath": "C:\\git-anibaliym\\PersonasApp\\App\\Src\\Personas.Domain\\obj\\",
+        "outputPath": "C:\\git-anibaliym\\Desarrollo\\App\\Src\\Personas.Domain.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Anibal Yañez\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,153 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Ardalis.SmartEnum": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.9.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\git-anibaliym\\Desarrollo\\App\\Src\\Personas.Domain\\Personas.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\git-anibaliym\\Desarrollo\\App\\Src\\Personas.Domain\\Personas.Domain.csproj",
+        "projectName": "Personas.Domain",
+        "projectPath": "C:\\git-anibaliym\\Desarrollo\\App\\Src\\Personas.Domain\\Personas.Domain.csproj",
+        "packagesPath": "C:\\Users\\Anibal Yañez\\.nuget\\packages\\",
+        "outputPath": "C:\\git-anibaliym\\Desarrollo\\App\\Src\\Personas.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Anibal Yañez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\git-anibaliym\\Desarrollo\\App\\Src\\Personas.Domain.Core\\Personas.Domain.Core.csproj": {
+                "projectPath": "C:\\git-anibaliym\\Desarrollo\\App\\Src\\Personas.Domain.Core\\Personas.Domain.Core.csproj"
+              },
+              "C:\\git-anibaliym\\Desarrollo\\App\\Src\\Personas.Infra.CrossCutting.Bus\\Personas.Infra.CrossCutting.Bus.csproj": {
+                "projectPath": "C:\\git-anibaliym\\Desarrollo\\App\\Src\\Personas.Infra.CrossCutting.Bus\\Personas.Infra.CrossCutting.Bus.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.9.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\git-anibaliym\\Desarrollo\\App\\Src\\Personas.Infra.CrossCutting.Bus\\Personas.Infra.CrossCutting.Bus.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\git-anibaliym\\Desarrollo\\App\\Src\\Personas.Infra.CrossCutting.Bus\\Personas.Infra.CrossCutting.Bus.csproj",
+        "projectName": "Personas.Infra.CrossCutting.Bus",
+        "projectPath": "C:\\git-anibaliym\\Desarrollo\\App\\Src\\Personas.Infra.CrossCutting.Bus\\Personas.Infra.CrossCutting.Bus.csproj",
+        "packagesPath": "C:\\Users\\Anibal Yañez\\.nuget\\packages\\",
+        "outputPath": "C:\\git-anibaliym\\Desarrollo\\App\\Src\\Personas.Infra.CrossCutting.Bus\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Anibal Yañez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\git-anibaliym\\Desarrollo\\App\\Src\\Personas.Domain.Core\\Personas.Domain.Core.csproj": {
+                "projectPath": "C:\\git-anibaliym\\Desarrollo\\App\\Src\\Personas.Domain.Core\\Personas.Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

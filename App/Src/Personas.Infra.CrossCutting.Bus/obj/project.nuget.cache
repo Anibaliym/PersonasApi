@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "3+2XDs2NY+DzneFYHXOh4RWIAhhq6W+j15isyGiHfknBrRYDr2/frfryKmf/geSFLKDh5T7xNLiBU8PR75Q29w==",
+  "dgSpecHash": "9ae8TSS0qltum91BybwDhSJoFGyJscxGhUCEwL/glmFqQHtonfMrK01ifptXGcgXou9IJZq6H3+clX4HtZWMCg==",
   "success": true,
-  "projectFilePath": "C:\\git-anibaliym\\PersonasApp\\App\\Src\\Personas.Infra.CrossCutting.Bus\\Personas.Infra.CrossCutting.Bus.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\git-anibaliym\\Desarrollo\\App\\Src\\Personas.Infra.CrossCutting.Bus\\Personas.Infra.CrossCutting.Bus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anibal Yañez\\.nuget\\packages\\ardalis.smartenum\\7.0.0\\ardalis.smartenum.7.0.0.nupkg.sha512",
+    "C:\\Users\\Anibal Yañez\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
+    "C:\\Users\\Anibal Yañez\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\Anibal Yañez\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Anibal Yañez\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
