@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\git-anibaliym\\PersonasApp\\App\\Src\\Personas.Infra.Data.PostgreSQL\\Personas.Infra.Data.PostgreSQL.csproj",
+      "projectUniqueName": "C:\\git-anibaliym\\Desarrollo\\App\\Src\\Personas.Infra.Data.PostgreSQL\\Personas.Infra.Data.PostgreSQL.csproj",
       "projectName": "Personas.Infra.Data.PostgreSQL",
-      "projectPath": "C:\\git-anibaliym\\PersonasApp\\App\\Src\\Personas.Infra.Data.PostgreSQL\\Personas.Infra.Data.PostgreSQL.csproj",
+      "projectPath": "C:\\git-anibaliym\\Desarrollo\\App\\Src\\Personas.Infra.Data.PostgreSQL\\Personas.Infra.Data.PostgreSQL.csproj",
       "packagesPath": "C:\\Users\\Anibal Yañez\\.nuget\\packages\\",
-      "outputPath": "C:\\git-anibaliym\\PersonasApp\\App\\Src\\Personas.Infra.Data.PostgreSQL\\obj\\",
+      "outputPath": "C:\\git-anibaliym\\Desarrollo\\App\\Src\\Personas.Infra.Data.PostgreSQL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Anibal Yañez\\AppData\\Roaming\\NuGet\\NuGet.Config",

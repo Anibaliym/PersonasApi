@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KXUjwhpPI5/ufTj1HbziCLqVbP/qTf0isk5g5L7jjv3U17eUBPG1tG0MZmtTGhafr5+PyoDkXKmpj/B7mM/9bg==",
+  "dgSpecHash": "wHQWtcM49IrFEYqqrja5riDDs/9slkKm4SmrJtOrUgP3FRru495oBK49yvRlBNHEIteZLjTzFskup8QgtUEI/A==",
   "success": true,
-  "projectFilePath": "C:\\git-anibaliym\\PersonasApp\\App\\Src\\Personas.Application\\Personas.Application.csproj",
+  "projectFilePath": "C:\\git-anibaliym\\Desarrollo\\App\\Src\\Personas.Application\\Personas.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -30,3 +30,36 @@ C:\Users\Anibal Yañez\Desktop\proyecto personal\App\PersonasApp\Src\Personas.Se
 C:\Users\Anibal Yañez\Desktop\proyecto personal\App\PersonasApp\Src\Personas.Service.Api\obj\Debug\net8.0\Personas.Service.Api.pdb
 C:\Users\Anibal Yañez\Desktop\proyecto personal\App\PersonasApp\Src\Personas.Service.Api\obj\Debug\net8.0\Personas.Service.Api.genruntimeconfig.cache
 C:\Users\Anibal Yañez\Desktop\proyecto personal\App\PersonasApp\Src\Personas.Service.Api\obj\Debug\net8.0\ref\Personas.Service.Api.dll
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Service.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Service.Api\bin\Debug\net8.0\appsettings.json
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Service.Api\bin\Debug\net8.0\Personas.Service.Api.exe
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Service.Api\bin\Debug\net8.0\Personas.Service.Api.deps.json
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Service.Api\bin\Debug\net8.0\Personas.Service.Api.runtimeconfig.json
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Service.Api\bin\Debug\net8.0\Personas.Service.Api.dll
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Service.Api\bin\Debug\net8.0\Personas.Service.Api.pdb
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Service.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Service.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Service.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Service.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Service.Api\obj\Debug\net8.0\Personas.Service.Api.csproj.AssemblyReference.cache
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Service.Api\obj\Debug\net8.0\Personas.Service.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Service.Api\obj\Debug\net8.0\Personas.Service.Api.AssemblyInfoInputs.cache
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Service.Api\obj\Debug\net8.0\Personas.Service.Api.AssemblyInfo.cs
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Service.Api\obj\Debug\net8.0\Personas.Service.Api.csproj.CoreCompileInputs.cache
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Service.Api\obj\Debug\net8.0\Personas.Service.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Service.Api\obj\Debug\net8.0\Personas.Service.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Service.Api\obj\Debug\net8.0\Personas.Service.Api.sourcelink.json
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Service.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Service.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Service.Api\obj\Debug\net8.0\staticwebassets\msbuild.Personas.Service.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Service.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.Personas.Service.Api.props
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Service.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Personas.Service.Api.props
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Service.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Personas.Service.Api.props
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Service.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Service.Api\obj\Debug\net8.0\scopedcss\bundle\Personas.Service.Api.styles.css
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Service.Api\obj\Debug\net8.0\Personas.Service.Api.csproj.CopyComplete
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Service.Api\obj\Debug\net8.0\Personas.Service.Api.dll
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Service.Api\obj\Debug\net8.0\refint\Personas.Service.Api.dll
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Service.Api\obj\Debug\net8.0\Personas.Service.Api.pdb
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Service.Api\obj\Debug\net8.0\Personas.Service.Api.genruntimeconfig.cache
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Service.Api\obj\Debug\net8.0\ref\Personas.Service.Api.dll

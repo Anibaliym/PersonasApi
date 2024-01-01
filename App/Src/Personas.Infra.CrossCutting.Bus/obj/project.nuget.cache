@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3+2XDs2NY+DzneFYHXOh4RWIAhhq6W+j15isyGiHfknBrRYDr2/frfryKmf/geSFLKDh5T7xNLiBU8PR75Q29w==",
+  "dgSpecHash": "coVpDI2txfQ8csyRmOH61SOgCK9BbYFLGkMe4LpuaLRnHwcU1776rT6xhTQabxuD6NqtvQiNDvBZu1HgY6vXSA==",
   "success": true,
-  "projectFilePath": "C:\\git-anibaliym\\PersonasApp\\App\\Src\\Personas.Infra.CrossCutting.Bus\\Personas.Infra.CrossCutting.Bus.csproj",
+  "projectFilePath": "C:\\git-anibaliym\\Desarrollo\\App\\Src\\Personas.Infra.CrossCutting.Bus\\Personas.Infra.CrossCutting.Bus.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

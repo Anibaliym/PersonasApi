@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\git-anibaliym\\PersonasApp\\App\\Src\\Personas.Infra.CrossCutting.IoC\\Personas.Infra.CrossCutting.IoC.csproj": {}
+    "C:\\git-anibaliym\\Desarrollo\\App\\Src\\Personas.Infra.CrossCutting.IoC\\Personas.Infra.CrossCutting.IoC.csproj": {}
   },
   "projects": {
-    "C:\\git-anibaliym\\PersonasApp\\App\\Src\\Personas.Infra.CrossCutting.IoC\\Personas.Infra.CrossCutting.IoC.csproj": {
+    "C:\\git-anibaliym\\Desarrollo\\App\\Src\\Personas.Infra.CrossCutting.IoC\\Personas.Infra.CrossCutting.IoC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\git-anibaliym\\PersonasApp\\App\\Src\\Personas.Infra.CrossCutting.IoC\\Personas.Infra.CrossCutting.IoC.csproj",
+        "projectUniqueName": "C:\\git-anibaliym\\Desarrollo\\App\\Src\\Personas.Infra.CrossCutting.IoC\\Personas.Infra.CrossCutting.IoC.csproj",
         "projectName": "Personas.Infra.CrossCutting.IoC",
-        "projectPath": "C:\\git-anibaliym\\PersonasApp\\App\\Src\\Personas.Infra.CrossCutting.IoC\\Personas.Infra.CrossCutting.IoC.csproj",
+        "projectPath": "C:\\git-anibaliym\\Desarrollo\\App\\Src\\Personas.Infra.CrossCutting.IoC\\Personas.Infra.CrossCutting.IoC.csproj",
         "packagesPath": "C:\\Users\\Anibal Yañez\\.nuget\\packages\\",
-        "outputPath": "C:\\git-anibaliym\\PersonasApp\\App\\Src\\Personas.Infra.CrossCutting.IoC\\obj\\",
+        "outputPath": "C:\\git-anibaliym\\Desarrollo\\App\\Src\\Personas.Infra.CrossCutting.IoC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Anibal Yañez\\AppData\\Roaming\\NuGet\\NuGet.Config",

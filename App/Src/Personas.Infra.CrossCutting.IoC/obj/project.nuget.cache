@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4LTRm4uGB1QZk2cctYr0qBMXymhtWTs8eAlPU4w42yILymiqSVVSimochkqToCsraIaXjV1d+jER8akldk42cQ==",
+  "dgSpecHash": "WmYVaQzUMj6+6YEIxYKHjroz4GIb4vfMgI7Yan8xndGdPMqFB2qWW8TmUTM5gESo4saDlJQMVz2KubmsCgk/Og==",
   "success": true,
-  "projectFilePath": "C:\\git-anibaliym\\PersonasApp\\App\\Src\\Personas.Infra.CrossCutting.IoC\\Personas.Infra.CrossCutting.IoC.csproj",
+  "projectFilePath": "C:\\git-anibaliym\\Desarrollo\\App\\Src\\Personas.Infra.CrossCutting.IoC\\Personas.Infra.CrossCutting.IoC.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

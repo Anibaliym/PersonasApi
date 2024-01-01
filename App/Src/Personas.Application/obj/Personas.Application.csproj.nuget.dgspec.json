@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\git-anibaliym\\PersonasApp\\App\\Src\\Personas.Application\\Personas.Application.csproj": {}
+    "C:\\git-anibaliym\\Desarrollo\\App\\Src\\Personas.Application\\Personas.Application.csproj": {}
   },
   "projects": {
-    "C:\\git-anibaliym\\PersonasApp\\App\\Src\\Personas.Application\\Personas.Application.csproj": {
+    "C:\\git-anibaliym\\Desarrollo\\App\\Src\\Personas.Application\\Personas.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\git-anibaliym\\PersonasApp\\App\\Src\\Personas.Application\\Personas.Application.csproj",
+        "projectUniqueName": "C:\\git-anibaliym\\Desarrollo\\App\\Src\\Personas.Application\\Personas.Application.csproj",
         "projectName": "Personas.Application",
-        "projectPath": "C:\\git-anibaliym\\PersonasApp\\App\\Src\\Personas.Application\\Personas.Application.csproj",
+        "projectPath": "C:\\git-anibaliym\\Desarrollo\\App\\Src\\Personas.Application\\Personas.Application.csproj",
         "packagesPath": "C:\\Users\\Anibal Yañez\\.nuget\\packages\\",
-        "outputPath": "C:\\git-anibaliym\\PersonasApp\\App\\Src\\Personas.Application\\obj\\",
+        "outputPath": "C:\\git-anibaliym\\Desarrollo\\App\\Src\\Personas.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Anibal Yañez\\AppData\\Roaming\\NuGet\\NuGet.Config",

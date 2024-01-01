@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\git-anibaliym\\PersonasApp\\App\\Src\\Personas.Infra.CrossCutting.Bus\\Personas.Infra.CrossCutting.Bus.csproj": {}
+    "C:\\git-anibaliym\\Desarrollo\\App\\Src\\Personas.Infra.CrossCutting.Bus\\Personas.Infra.CrossCutting.Bus.csproj": {}
   },
   "projects": {
-    "C:\\git-anibaliym\\PersonasApp\\App\\Src\\Personas.Infra.CrossCutting.Bus\\Personas.Infra.CrossCutting.Bus.csproj": {
+    "C:\\git-anibaliym\\Desarrollo\\App\\Src\\Personas.Infra.CrossCutting.Bus\\Personas.Infra.CrossCutting.Bus.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\git-anibaliym\\PersonasApp\\App\\Src\\Personas.Infra.CrossCutting.Bus\\Personas.Infra.CrossCutting.Bus.csproj",
+        "projectUniqueName": "C:\\git-anibaliym\\Desarrollo\\App\\Src\\Personas.Infra.CrossCutting.Bus\\Personas.Infra.CrossCutting.Bus.csproj",
         "projectName": "Personas.Infra.CrossCutting.Bus",
-        "projectPath": "C:\\git-anibaliym\\PersonasApp\\App\\Src\\Personas.Infra.CrossCutting.Bus\\Personas.Infra.CrossCutting.Bus.csproj",
+        "projectPath": "C:\\git-anibaliym\\Desarrollo\\App\\Src\\Personas.Infra.CrossCutting.Bus\\Personas.Infra.CrossCutting.Bus.csproj",
         "packagesPath": "C:\\Users\\Anibal Yañez\\.nuget\\packages\\",
-        "outputPath": "C:\\git-anibaliym\\PersonasApp\\App\\Src\\Personas.Infra.CrossCutting.Bus\\obj\\",
+        "outputPath": "C:\\git-anibaliym\\Desarrollo\\App\\Src\\Personas.Infra.CrossCutting.Bus\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Anibal Yañez\\AppData\\Roaming\\NuGet\\NuGet.Config",

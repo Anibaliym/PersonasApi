@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\git-anibaliym\\PersonasApp\\App\\Src\\Personas.Service.Api\\Personas.Service.Api.csproj": {}
+    "C:\\git-anibaliym\\Desarrollo\\App\\Src\\Personas.Service.Api\\Personas.Service.Api.csproj": {}
   },
   "projects": {
-    "C:\\git-anibaliym\\PersonasApp\\App\\Src\\Personas.Service.Api\\Personas.Service.Api.csproj": {
+    "C:\\git-anibaliym\\Desarrollo\\App\\Src\\Personas.Service.Api\\Personas.Service.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\git-anibaliym\\PersonasApp\\App\\Src\\Personas.Service.Api\\Personas.Service.Api.csproj",
+        "projectUniqueName": "C:\\git-anibaliym\\Desarrollo\\App\\Src\\Personas.Service.Api\\Personas.Service.Api.csproj",
         "projectName": "Personas.Service.Api",
-        "projectPath": "C:\\git-anibaliym\\PersonasApp\\App\\Src\\Personas.Service.Api\\Personas.Service.Api.csproj",
+        "projectPath": "C:\\git-anibaliym\\Desarrollo\\App\\Src\\Personas.Service.Api\\Personas.Service.Api.csproj",
         "packagesPath": "C:\\Users\\Anibal Yañez\\.nuget\\packages\\",
-        "outputPath": "C:\\git-anibaliym\\PersonasApp\\App\\Src\\Personas.Service.Api\\obj\\",
+        "outputPath": "C:\\git-anibaliym\\Desarrollo\\App\\Src\\Personas.Service.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Anibal Yañez\\AppData\\Roaming\\NuGet\\NuGet.Config",
