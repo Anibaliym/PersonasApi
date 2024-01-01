@@ -1,0 +1,11 @@
+C:\Users\Anibal Yañez\Desktop\proyecto personal\App\PersonasApp\Src\Personas.Domain\bin\Debug\net8.0\Personas.Domain.deps.json
+C:\Users\Anibal Yañez\Desktop\proyecto personal\App\PersonasApp\Src\Personas.Domain\bin\Debug\net8.0\Personas.Domain.dll
+C:\Users\Anibal Yañez\Desktop\proyecto personal\App\PersonasApp\Src\Personas.Domain\bin\Debug\net8.0\Personas.Domain.pdb
+C:\Users\Anibal Yañez\Desktop\proyecto personal\App\PersonasApp\Src\Personas.Domain\obj\Debug\net8.0\Personas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anibal Yañez\Desktop\proyecto personal\App\PersonasApp\Src\Personas.Domain\obj\Debug\net8.0\Personas.Domain.AssemblyInfoInputs.cache
+C:\Users\Anibal Yañez\Desktop\proyecto personal\App\PersonasApp\Src\Personas.Domain\obj\Debug\net8.0\Personas.Domain.AssemblyInfo.cs
+C:\Users\Anibal Yañez\Desktop\proyecto personal\App\PersonasApp\Src\Personas.Domain\obj\Debug\net8.0\Personas.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Anibal Yañez\Desktop\proyecto personal\App\PersonasApp\Src\Personas.Domain\obj\Debug\net8.0\Personas.Domain.dll
+C:\Users\Anibal Yañez\Desktop\proyecto personal\App\PersonasApp\Src\Personas.Domain\obj\Debug\net8.0\refint\Personas.Domain.dll
+C:\Users\Anibal Yañez\Desktop\proyecto personal\App\PersonasApp\Src\Personas.Domain\obj\Debug\net8.0\Personas.Domain.pdb
+C:\Users\Anibal Yañez\Desktop\proyecto personal\App\PersonasApp\Src\Personas.Domain\obj\Debug\net8.0\ref\Personas.Domain.dll
