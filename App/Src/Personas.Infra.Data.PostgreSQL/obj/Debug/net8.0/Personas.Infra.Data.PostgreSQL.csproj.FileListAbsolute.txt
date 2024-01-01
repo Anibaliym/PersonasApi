@@ -9,3 +9,23 @@ C:\Users\Anibal Yañez\Desktop\proyecto personal\App\PersonasApp\Src\Personas.In
 C:\Users\Anibal Yañez\Desktop\proyecto personal\App\PersonasApp\Src\Personas.Infra.Data.PostgreSQL\obj\Debug\net8.0\refint\Personas.Infra.Data.PostgreSQL.dll
 C:\Users\Anibal Yañez\Desktop\proyecto personal\App\PersonasApp\Src\Personas.Infra.Data.PostgreSQL\obj\Debug\net8.0\Personas.Infra.Data.PostgreSQL.pdb
 C:\Users\Anibal Yañez\Desktop\proyecto personal\App\PersonasApp\Src\Personas.Infra.Data.PostgreSQL\obj\Debug\net8.0\ref\Personas.Infra.Data.PostgreSQL.dll
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Infra.Data.PostgreSQL\bin\Debug\net8.0\Personas.Infra.Data.PostgreSQL.deps.json
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Infra.Data.PostgreSQL\bin\Debug\net8.0\Personas.Infra.Data.PostgreSQL.dll
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Infra.Data.PostgreSQL\bin\Debug\net8.0\Personas.Infra.Data.PostgreSQL.pdb
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Infra.Data.PostgreSQL\bin\Debug\net8.0\Personas.Domain.Core.dll
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Infra.Data.PostgreSQL\bin\Debug\net8.0\Personas.Domain.dll
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Infra.Data.PostgreSQL\bin\Debug\net8.0\Personas.Infra.CrossCutting.Bus.dll
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Infra.Data.PostgreSQL\bin\Debug\net8.0\Personas.Domain.Core.pdb
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Infra.Data.PostgreSQL\bin\Debug\net8.0\Personas.Domain.pdb
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Infra.Data.PostgreSQL\bin\Debug\net8.0\Personas.Infra.CrossCutting.Bus.pdb
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Infra.Data.PostgreSQL\obj\Debug\net8.0\Personas.Infra.Data.PostgreSQL.csproj.AssemblyReference.cache
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Infra.Data.PostgreSQL\obj\Debug\net8.0\Personas.Infra.Data.PostgreSQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Infra.Data.PostgreSQL\obj\Debug\net8.0\Personas.Infra.Data.PostgreSQL.AssemblyInfoInputs.cache
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Infra.Data.PostgreSQL\obj\Debug\net8.0\Personas.Infra.Data.PostgreSQL.AssemblyInfo.cs
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Infra.Data.PostgreSQL\obj\Debug\net8.0\Personas.Infra.Data.PostgreSQL.csproj.CoreCompileInputs.cache
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Infra.Data.PostgreSQL\obj\Debug\net8.0\Personas.Infra.Data.PostgreSQL.sourcelink.json
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Infra.Data.PostgreSQL\obj\Debug\net8.0\Personas.Infra.Data.PostgreSQL.csproj.CopyComplete
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Infra.Data.PostgreSQL\obj\Debug\net8.0\Personas.Infra.Data.PostgreSQL.dll
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Infra.Data.PostgreSQL\obj\Debug\net8.0\refint\Personas.Infra.Data.PostgreSQL.dll
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Infra.Data.PostgreSQL\obj\Debug\net8.0\Personas.Infra.Data.PostgreSQL.pdb
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Infra.Data.PostgreSQL\obj\Debug\net8.0\ref\Personas.Infra.Data.PostgreSQL.dll

@@ -9,3 +9,25 @@ C:\Users\Anibal Yañez\Desktop\proyecto personal\App\PersonasApp\Src\Personas.Ap
 C:\Users\Anibal Yañez\Desktop\proyecto personal\App\PersonasApp\Src\Personas.Application\obj\Debug\net8.0\refint\Personas.Application.dll
 C:\Users\Anibal Yañez\Desktop\proyecto personal\App\PersonasApp\Src\Personas.Application\obj\Debug\net8.0\Personas.Application.pdb
 C:\Users\Anibal Yañez\Desktop\proyecto personal\App\PersonasApp\Src\Personas.Application\obj\Debug\net8.0\ref\Personas.Application.dll
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Application\bin\Debug\net8.0\Personas.Application.deps.json
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Application\bin\Debug\net8.0\Personas.Application.dll
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Application\bin\Debug\net8.0\Personas.Application.pdb
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Application\bin\Debug\net8.0\Personas.Domain.Core.dll
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Application\bin\Debug\net8.0\Personas.Domain.dll
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Application\bin\Debug\net8.0\Personas.Infra.CrossCutting.Bus.dll
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Application\bin\Debug\net8.0\Personas.Infra.Data.PostgreSQL.dll
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Application\bin\Debug\net8.0\Personas.Domain.pdb
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Application\bin\Debug\net8.0\Personas.Infra.Data.PostgreSQL.pdb
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Application\bin\Debug\net8.0\Personas.Domain.Core.pdb
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Application\bin\Debug\net8.0\Personas.Infra.CrossCutting.Bus.pdb
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Application\obj\Debug\net8.0\Personas.Application.csproj.AssemblyReference.cache
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Application\obj\Debug\net8.0\Personas.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Application\obj\Debug\net8.0\Personas.Application.AssemblyInfoInputs.cache
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Application\obj\Debug\net8.0\Personas.Application.AssemblyInfo.cs
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Application\obj\Debug\net8.0\Personas.Application.csproj.CoreCompileInputs.cache
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Application\obj\Debug\net8.0\Personas.Application.sourcelink.json
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Application\obj\Debug\net8.0\Personas.Application.csproj.CopyComplete
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Application\obj\Debug\net8.0\Personas.Application.dll
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Application\obj\Debug\net8.0\refint\Personas.Application.dll
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Application\obj\Debug\net8.0\Personas.Application.pdb
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Application\obj\Debug\net8.0\ref\Personas.Application.dll

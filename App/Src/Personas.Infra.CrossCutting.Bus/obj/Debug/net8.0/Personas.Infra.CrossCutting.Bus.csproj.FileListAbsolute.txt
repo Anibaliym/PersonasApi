@@ -9,3 +9,19 @@ C:\Users\Anibal Yañez\Desktop\proyecto personal\App\PersonasApp\Src\Personas.In
 C:\Users\Anibal Yañez\Desktop\proyecto personal\App\PersonasApp\Src\Personas.Infra.CrossCutting.Bus\obj\Debug\net8.0\refint\Personas.Infra.CrossCutting.Bus.dll
 C:\Users\Anibal Yañez\Desktop\proyecto personal\App\PersonasApp\Src\Personas.Infra.CrossCutting.Bus\obj\Debug\net8.0\Personas.Infra.CrossCutting.Bus.pdb
 C:\Users\Anibal Yañez\Desktop\proyecto personal\App\PersonasApp\Src\Personas.Infra.CrossCutting.Bus\obj\Debug\net8.0\ref\Personas.Infra.CrossCutting.Bus.dll
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Infra.CrossCutting.Bus\bin\Debug\net8.0\Personas.Infra.CrossCutting.Bus.deps.json
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Infra.CrossCutting.Bus\bin\Debug\net8.0\Personas.Infra.CrossCutting.Bus.dll
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Infra.CrossCutting.Bus\bin\Debug\net8.0\Personas.Infra.CrossCutting.Bus.pdb
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Infra.CrossCutting.Bus\bin\Debug\net8.0\Personas.Domain.Core.dll
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Infra.CrossCutting.Bus\bin\Debug\net8.0\Personas.Domain.Core.pdb
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Infra.CrossCutting.Bus\obj\Debug\net8.0\Personas.Infra.CrossCutting.Bus.csproj.AssemblyReference.cache
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Infra.CrossCutting.Bus\obj\Debug\net8.0\Personas.Infra.CrossCutting.Bus.GeneratedMSBuildEditorConfig.editorconfig
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Infra.CrossCutting.Bus\obj\Debug\net8.0\Personas.Infra.CrossCutting.Bus.AssemblyInfoInputs.cache
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Infra.CrossCutting.Bus\obj\Debug\net8.0\Personas.Infra.CrossCutting.Bus.AssemblyInfo.cs
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Infra.CrossCutting.Bus\obj\Debug\net8.0\Personas.Infra.CrossCutting.Bus.csproj.CoreCompileInputs.cache
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Infra.CrossCutting.Bus\obj\Debug\net8.0\Personas.Infra.CrossCutting.Bus.sourcelink.json
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Infra.CrossCutting.Bus\obj\Debug\net8.0\Personas.Infra.CrossCutting.Bus.csproj.CopyComplete
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Infra.CrossCutting.Bus\obj\Debug\net8.0\Personas.Infra.CrossCutting.Bus.dll
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Infra.CrossCutting.Bus\obj\Debug\net8.0\refint\Personas.Infra.CrossCutting.Bus.dll
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Infra.CrossCutting.Bus\obj\Debug\net8.0\Personas.Infra.CrossCutting.Bus.pdb
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Infra.CrossCutting.Bus\obj\Debug\net8.0\ref\Personas.Infra.CrossCutting.Bus.dll

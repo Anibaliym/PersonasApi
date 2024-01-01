@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "faAYa1VxaRucqYQVHuclSJBlKi8ariG7TPy3t8jXu+QpS9WXgT9A0GhN1JQa7ZgNZGP0vUNlIFt6x+WeJKekmg==",
+  "dgSpecHash": "snonBAWVQbPowPrWXqo98BWypZDjbmLfNq+0G+VqFDzEmfeVClJutRQn4I9DAPR0PdSGZEP5z11Gr/ZP0IB8wA==",
   "success": true,
   "projectFilePath": "C:\\git-anibaliym\\Desarrollo\\App\\Src\\Personas.Domain.Core\\Personas.Domain.Core.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Anibal Yañez\\.nuget\\packages\\ardalis.smartenum\\7.0.0\\ardalis.smartenum.7.0.0.nupkg.sha512",
+    "C:\\Users\\Anibal Yañez\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
+    "C:\\Users\\Anibal Yañez\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\Anibal Yañez\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Anibal Yañez\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
