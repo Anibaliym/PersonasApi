@@ -15,4 +15,12 @@
     <ProjectReference Include="..\Personas.Infra.Data.PostgreSQL\Personas.Infra.Data.PostgreSQL.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="EventSourcedNormalizers\Contacto\" />
+    <Folder Include="EventSourcedNormalizers\Direccion\" />
+    <Folder Include="ViewModels\Direccion\" />
+    <Folder Include="ViewModels\ServiciosDeDominio\" />
+    <Folder Include="ViewModels\Contacto\" />
+  </ItemGroup>
+
 </Project>
