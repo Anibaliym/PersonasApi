@@ -19,7 +19,7 @@ create table if not exists public."Direccion"
     "Calle" varchar(200), 
     "Numero" varchar(10) , 
     "NumeroCasaDepartamento" varchar(10), 
-    "Comuna" timestamp  not null, 
+    "Comuna" varchar(100)  not null, 
     constraint Direccion_pk primary key ("Id")
 ); 
 

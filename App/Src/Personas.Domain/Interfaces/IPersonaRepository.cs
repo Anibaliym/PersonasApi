@@ -13,6 +13,6 @@ namespace Personas.Domain.Interfaces
         Task<Persona> BuscaPorRut(string rut);
         Task<IEnumerable<Persona>> BuscaPorNombreCoincidencias(string nombre);
         Task<IEnumerable<Persona>> BuscaPorApellidoPaternoCoincidencias(string apellidoPaterno);
-        Task<IEnumerable<Entities.Persona>> BuscaPorApellidoMaternoCoincidencias(string apellidoMaterno);
+        Task<IEnumerable<Persona>> BuscaPorApellidoMaternoCoincidencias(string apellidoMaterno);
     }
 }

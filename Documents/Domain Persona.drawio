@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2024-01-01T19:22:19.692Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.16 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="HieeHG7g0yhDaEqGYrCo" version="22.1.16" type="device">
+<mxfile host="Electron" modified="2024-01-02T16:22:18.721Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.16 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="BYV5JAdhLVCKcYQvQ34b" version="22.1.16" type="device">
   <diagram id="axaJpA255Qp3xF8ieOo0" name="Dominio Transitos">
-    <mxGraphModel dx="3135" dy="399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3117" dy="389" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -156,10 +156,10 @@
         <mxCell id="EbXu0sz_ChYEm4_ZpIHF-55" value="&lt;b&gt;Consultas&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="EbXu0sz_ChYEm4_ZpIHF-36" vertex="1">
           <mxGeometry y="320" width="600" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EbXu0sz_ChYEm4_ZpIHF-56" value="BuscaPorId(id) : &amp;lt;Contacto&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="EbXu0sz_ChYEm4_ZpIHF-36" vertex="1">
+        <mxCell id="EbXu0sz_ChYEm4_ZpIHF-56" value="BuscaPorId(id) : &amp;lt;Direccion&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="EbXu0sz_ChYEm4_ZpIHF-36" vertex="1">
           <mxGeometry y="340" width="600" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EbXu0sz_ChYEm4_ZpIHF-57" value="BuscaPorIdPersona(idPersona) : &amp;lt;Contacto&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="EbXu0sz_ChYEm4_ZpIHF-36" vertex="1">
+        <mxCell id="EbXu0sz_ChYEm4_ZpIHF-57" value="BuscaPorIdPersona(idPersona) : &amp;lt;Direccion&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="EbXu0sz_ChYEm4_ZpIHF-36" vertex="1">
           <mxGeometry y="360" width="600" height="20" as="geometry" />
         </mxCell>
         <mxCell id="CUUe3MoHiiGY6zqLGDCS-23" value="&amp;lt;entidad&amp;gt;&lt;br&gt;&lt;b&gt;Contacto&lt;/b&gt;" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;fillColor=#E6FFCC;" parent="1" vertex="1">

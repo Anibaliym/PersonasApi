@@ -31,8 +31,9 @@ namespace Personas.Infra.Data.PostgreSQL.Context
 
             foreach (var property in modelBuilder.Model.GetEntityTypes().SelectMany(e => e.GetProperties().Where(p => p.ClrType == typeof(string)))) property.SetColumnType("varchar(100)");
 
-            //modelBuilder.ApplyConfiguration(new PersonaMap());
             modelBuilder.ApplyConfiguration(new PersonaMap());
+            modelBuilder.ApplyConfiguration(new DireccionMap());
+            //modelBuilder.ApplyConfiguration(new ContactoMap());
 
             base.OnModelCreating(modelBuilder);
         }

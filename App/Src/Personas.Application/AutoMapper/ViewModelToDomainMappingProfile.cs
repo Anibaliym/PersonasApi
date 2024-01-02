@@ -1,5 +1,7 @@
 ﻿using AutoMapper;
+using Personas.Application.ViewModels.Direccion;
 using Personas.Application.ViewModels.Persona;
+using Personas.Domain.Commands.Direccion.Commands;
 using Personas.Domain.Commands.Persona.Commands;
 
 namespace Personas.Application.AutoMapper
@@ -29,6 +31,21 @@ namespace Personas.Application.AutoMapper
             #endregion
 
             #region Direccion
+            CreateMap<DireccionCrearViewModel, DireccionCrearCommand>().ConstructUsing(direccion => new DireccionCrearCommand(
+                direccion.IdPersona, 
+                direccion.Calle, 
+                direccion.Numero, 
+                direccion.NumeroCasaDepartamento, 
+                direccion.Comuna
+            ));
+
+            CreateMap<DireccionModificarViewModel, DireccionModificarCommand>().ConstructUsing(direccion => new DireccionModificarCommand(
+                direccion.Id,
+                direccion.Calle,
+                direccion.Numero,
+                direccion.NumeroCasaDepartamento,
+                direccion.Comuna
+            ));
             #endregion
 
             #region Contacto

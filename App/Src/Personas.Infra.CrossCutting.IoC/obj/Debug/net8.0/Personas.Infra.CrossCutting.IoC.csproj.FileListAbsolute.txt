@@ -9,12 +9,6 @@ C:\Users\Anibal Yañez\Desktop\proyecto personal\App\PersonasApp\Src\Personas.In
 C:\Users\Anibal Yañez\Desktop\proyecto personal\App\PersonasApp\Src\Personas.Infra.CrossCutting.IoC\obj\Debug\net8.0\refint\Personas.Infra.CrossCutting.IoC.dll
 C:\Users\Anibal Yañez\Desktop\proyecto personal\App\PersonasApp\Src\Personas.Infra.CrossCutting.IoC\obj\Debug\net8.0\Personas.Infra.CrossCutting.IoC.pdb
 C:\Users\Anibal Yañez\Desktop\proyecto personal\App\PersonasApp\Src\Personas.Infra.CrossCutting.IoC\obj\Debug\net8.0\ref\Personas.Infra.CrossCutting.IoC.dll
-C:\git-anibaliym\Desarrollo\App\Src\Personas.Infra.CrossCutting.IoC\obj\Debug\net8.0\Personas.Infra.CrossCutting.IoC.csproj.AssemblyReference.cache
-C:\git-anibaliym\Desarrollo\App\Src\Personas.Infra.CrossCutting.IoC\obj\Debug\net8.0\Personas.Infra.CrossCutting.IoC.GeneratedMSBuildEditorConfig.editorconfig
-C:\git-anibaliym\Desarrollo\App\Src\Personas.Infra.CrossCutting.IoC\obj\Debug\net8.0\Personas.Infra.CrossCutting.IoC.AssemblyInfoInputs.cache
-C:\git-anibaliym\Desarrollo\App\Src\Personas.Infra.CrossCutting.IoC\obj\Debug\net8.0\Personas.Infra.CrossCutting.IoC.AssemblyInfo.cs
-C:\git-anibaliym\Desarrollo\App\Src\Personas.Infra.CrossCutting.IoC\obj\Debug\net8.0\Personas.Infra.CrossCutting.IoC.csproj.CoreCompileInputs.cache
-C:\git-anibaliym\Desarrollo\App\Src\Personas.Infra.CrossCutting.IoC\obj\Debug\net8.0\Personas.Infra.CrossCutting.IoC.sourcelink.json
 C:\git-anibaliym\Desarrollo\App\Src\Personas.Infra.CrossCutting.IoC\bin\Debug\net8.0\Personas.Infra.CrossCutting.IoC.deps.json
 C:\git-anibaliym\Desarrollo\App\Src\Personas.Infra.CrossCutting.IoC\bin\Debug\net8.0\Personas.Infra.CrossCutting.IoC.dll
 C:\git-anibaliym\Desarrollo\App\Src\Personas.Infra.CrossCutting.IoC\bin\Debug\net8.0\Personas.Infra.CrossCutting.IoC.pdb
@@ -28,6 +22,12 @@ C:\git-anibaliym\Desarrollo\App\Src\Personas.Infra.CrossCutting.IoC\bin\Debug\ne
 C:\git-anibaliym\Desarrollo\App\Src\Personas.Infra.CrossCutting.IoC\bin\Debug\net8.0\Personas.Infra.Data.PostgreSQL.pdb
 C:\git-anibaliym\Desarrollo\App\Src\Personas.Infra.CrossCutting.IoC\bin\Debug\net8.0\Personas.Domain.Core.pdb
 C:\git-anibaliym\Desarrollo\App\Src\Personas.Infra.CrossCutting.IoC\bin\Debug\net8.0\Personas.Infra.CrossCutting.Bus.pdb
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Infra.CrossCutting.IoC\obj\Debug\net8.0\Personas.Infra.CrossCutting.IoC.csproj.AssemblyReference.cache
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Infra.CrossCutting.IoC\obj\Debug\net8.0\Personas.Infra.CrossCutting.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Infra.CrossCutting.IoC\obj\Debug\net8.0\Personas.Infra.CrossCutting.IoC.AssemblyInfoInputs.cache
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Infra.CrossCutting.IoC\obj\Debug\net8.0\Personas.Infra.CrossCutting.IoC.AssemblyInfo.cs
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Infra.CrossCutting.IoC\obj\Debug\net8.0\Personas.Infra.CrossCutting.IoC.csproj.CoreCompileInputs.cache
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Infra.CrossCutting.IoC\obj\Debug\net8.0\Personas.Infra.CrossCutting.IoC.sourcelink.json
 C:\git-anibaliym\Desarrollo\App\Src\Personas.Infra.CrossCutting.IoC\obj\Debug\net8.0\Personas.Infra.CrossCutting.IoC.csproj.CopyComplete
 C:\git-anibaliym\Desarrollo\App\Src\Personas.Infra.CrossCutting.IoC\obj\Debug\net8.0\Personas.Infra.CrossCutting.IoC.dll
 C:\git-anibaliym\Desarrollo\App\Src\Personas.Infra.CrossCutting.IoC\obj\Debug\net8.0\refint\Personas.Infra.CrossCutting.IoC.dll

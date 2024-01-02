@@ -8,7 +8,6 @@ namespace Personas.Infra.Data.PostgreSQL.Repository
 {
     public class PersonaRepository : IPersonaRepository
     {
-
         protected readonly PersonasContext Db;
         protected readonly DbSet<Persona> DbSet;
 

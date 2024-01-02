@@ -16,9 +16,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="EventSourcedNormalizers\Contacto\" />
-    <Folder Include="EventSourcedNormalizers\Direccion\" />
-    <Folder Include="ViewModels\Direccion\" />
     <Folder Include="ViewModels\ServiciosDeDominio\" />
     <Folder Include="ViewModels\Contacto\" />
   </ItemGroup>

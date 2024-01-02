@@ -30,13 +30,6 @@ C:\Users\Anibal Yañez\Desktop\proyecto personal\App\PersonasApp\Src\Personas.Se
 C:\Users\Anibal Yañez\Desktop\proyecto personal\App\PersonasApp\Src\Personas.Service.Api\obj\Debug\net8.0\Personas.Service.Api.pdb
 C:\Users\Anibal Yañez\Desktop\proyecto personal\App\PersonasApp\Src\Personas.Service.Api\obj\Debug\net8.0\Personas.Service.Api.genruntimeconfig.cache
 C:\Users\Anibal Yañez\Desktop\proyecto personal\App\PersonasApp\Src\Personas.Service.Api\obj\Debug\net8.0\ref\Personas.Service.Api.dll
-C:\git-anibaliym\Desarrollo\App\Src\Personas.Service.Api\obj\Debug\net8.0\Personas.Service.Api.csproj.AssemblyReference.cache
-C:\git-anibaliym\Desarrollo\App\Src\Personas.Service.Api\obj\Debug\net8.0\Personas.Service.Api.GeneratedMSBuildEditorConfig.editorconfig
-C:\git-anibaliym\Desarrollo\App\Src\Personas.Service.Api\obj\Debug\net8.0\Personas.Service.Api.AssemblyInfoInputs.cache
-C:\git-anibaliym\Desarrollo\App\Src\Personas.Service.Api\obj\Debug\net8.0\Personas.Service.Api.AssemblyInfo.cs
-C:\git-anibaliym\Desarrollo\App\Src\Personas.Service.Api\obj\Debug\net8.0\Personas.Service.Api.csproj.CoreCompileInputs.cache
-C:\git-anibaliym\Desarrollo\App\Src\Personas.Service.Api\obj\Debug\net8.0\Personas.Service.Api.MvcApplicationPartsAssemblyInfo.cache
-C:\git-anibaliym\Desarrollo\App\Src\Personas.Service.Api\obj\Debug\net8.0\Personas.Service.Api.sourcelink.json
 C:\git-anibaliym\Desarrollo\App\Src\Personas.Service.Api\bin\Debug\net8.0\appsettings.Development.json
 C:\git-anibaliym\Desarrollo\App\Src\Personas.Service.Api\bin\Debug\net8.0\appsettings.json
 C:\git-anibaliym\Desarrollo\App\Src\Personas.Service.Api\bin\Debug\net8.0\Personas.Service.Api.exe
@@ -72,6 +65,14 @@ C:\git-anibaliym\Desarrollo\App\Src\Personas.Service.Api\bin\Debug\net8.0\Person
 C:\git-anibaliym\Desarrollo\App\Src\Personas.Service.Api\bin\Debug\net8.0\Personas.Domain.pdb
 C:\git-anibaliym\Desarrollo\App\Src\Personas.Service.Api\bin\Debug\net8.0\Personas.Domain.Core.pdb
 C:\git-anibaliym\Desarrollo\App\Src\Personas.Service.Api\bin\Debug\net8.0\Personas.Infra.Data.PostgreSQL.pdb
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Service.Api\obj\Debug\net8.0\Personas.Service.Api.csproj.AssemblyReference.cache
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Service.Api\obj\Debug\net8.0\Personas.Service.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Service.Api\obj\Debug\net8.0\Personas.Service.Api.AssemblyInfoInputs.cache
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Service.Api\obj\Debug\net8.0\Personas.Service.Api.AssemblyInfo.cs
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Service.Api\obj\Debug\net8.0\Personas.Service.Api.csproj.CoreCompileInputs.cache
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Service.Api\obj\Debug\net8.0\Personas.Service.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Service.Api\obj\Debug\net8.0\Personas.Service.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\git-anibaliym\Desarrollo\App\Src\Personas.Service.Api\obj\Debug\net8.0\Personas.Service.Api.sourcelink.json
 C:\git-anibaliym\Desarrollo\App\Src\Personas.Service.Api\obj\Debug\net8.0\staticwebassets.build.json
 C:\git-anibaliym\Desarrollo\App\Src\Personas.Service.Api\obj\Debug\net8.0\staticwebassets.development.json
 C:\git-anibaliym\Desarrollo\App\Src\Personas.Service.Api\obj\Debug\net8.0\staticwebassets\msbuild.Personas.Service.Api.Microsoft.AspNetCore.StaticWebAssets.props
