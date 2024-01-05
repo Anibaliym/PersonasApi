@@ -17,7 +17,6 @@
 
   <ItemGroup>
     <Folder Include="ViewModels\ServiciosDeDominio\" />
-    <Folder Include="ViewModels\Contacto\" />
   </ItemGroup>
 
 </Project>

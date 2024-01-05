@@ -21,13 +21,7 @@ namespace Personas.Domain.Commands.Direccion.Handlers
                 return CommandResponse;
             }
 
-
-            direccion.Id = existeDireccion.Id;
             direccion.IdPersona = existeDireccion.IdPersona;
-            direccion.Calle = message.Calle;
-            direccion.Numero = message.Numero;
-            direccion.NumeroCasaDepartamento = message.NumeroCasaDepartamento;
-            direccion.Comuna = message.Comuna;
 
             direccion.AddDomainEvent(new DireccionModificarEvent(
                 direccion.Id,

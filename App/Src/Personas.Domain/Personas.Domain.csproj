@@ -15,13 +15,4 @@
     <ProjectReference Include="..\Personas.Infra.CrossCutting.Bus\Personas.Infra.CrossCutting.Bus.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Commands\Contacto\Validations\" />
-    <Folder Include="Commands\Contacto\Handlers\" />
-    <Folder Include="Commands\Contacto\Commands\" />
-    <Folder Include="Enumerations\Contacto\" />
-    <Folder Include="Events\Contacto\Handlers\" />
-    <Folder Include="Events\Contacto\Events\" />
-  </ItemGroup>
-
 </Project>

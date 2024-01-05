@@ -2,6 +2,8 @@
 using Microsoft.Extensions.DependencyInjection;
 using Personas.Application.Interfaces;
 using Personas.Application.Services;
+using Personas.Domain.Commands.Contacto.Commands;
+using Personas.Domain.Commands.Contacto.Handlers;
 using Personas.Domain.Commands.Direccion.Commands;
 using Personas.Domain.Commands.Direccion.Handlers;
 using Personas.Domain.Commands.Persona.Commands;
@@ -9,6 +11,8 @@ using Personas.Domain.Commands.Persona.Handlers;
 using Personas.Domain.Core.Events;
 using Personas.Domain.Core.Mediator;
 using Personas.Domain.Core.Messaging;
+using Personas.Domain.Events.Contacto.Events;
+using Personas.Domain.Events.Contacto.Handlers;
 using Personas.Domain.Events.Direccion.Events;
 using Personas.Domain.Events.Direccion.Handlers;
 using Personas.Domain.Events.Persona.Events;
@@ -34,7 +38,7 @@ namespace Personas.Infra.CrossCutting.IoC
             //Application
             services.AddScoped<IPersonaAppService, PersonaAppService>();
             services.AddScoped<IDireccionAppService, DireccionAppService>();
-            //services.AddScoped<IContactoAppService, ContactoAppService>();
+            services.AddScoped<IContactoAppService, ContactoAppService>();
 
             //---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
             //Domain Events
@@ -50,10 +54,9 @@ namespace Personas.Infra.CrossCutting.IoC
             services.AddScoped<INotificationHandler<DireccionEliminarEvent>, DireccionEliminarEventHandler>();
 
             //Contacto
-            //services.AddScoped<INotificationHandler<ContactoCrearEvent>, ContactoCrearEventHandler>();
-            //services.AddScoped<INotificationHandler<ContactoModificarEvent>, ContactoModificarEventHandler>();
-            //services.AddScoped<INotificationHandler<ContactoEliminarEvent>, ContactoEliminarEventHandler>();
-
+            services.AddScoped<INotificationHandler<ContactoCrearEvent>, ContactoCrearEventHandler>();
+            services.AddScoped<INotificationHandler<ContactoModificarEvent>, ContactoModificarEventHandler>();
+            services.AddScoped<INotificationHandler<ContactoEliminarEvent>, ContactoEliminarEventHandler>();
 
             //---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
             //Domain Commands
@@ -69,16 +72,16 @@ namespace Personas.Infra.CrossCutting.IoC
             services.AddScoped<IRequestHandler<DireccionEliminarCommand, CommandResponse>, DireccionCommandHandler>();
 
             //Contacto
-            //services.AddScoped<IRequestHandler<ContactoCrearCommand, CommandResponse>, ContactoCommandHandler>();
-            //services.AddScoped<IRequestHandler<ContactoModificarCommand, CommandResponse>, ContactoCommandHandler>();
-            //services.AddScoped<IRequestHandler<ContactoEliminarCommand, CommandResponse>, ContactoCommandHandler>();
+            services.AddScoped<IRequestHandler<ContactoCrearCommand, CommandResponse>, ContactoCommandHandler>();
+            services.AddScoped<IRequestHandler<ContactoModificarCommand, CommandResponse>, ContactoCommandHandler>();
+            services.AddScoped<IRequestHandler<ContactoEliminarCommand, CommandResponse>, ContactoCommandHandler>();
 
 
             //---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
             //InfraData
             services.AddScoped<IPersonaRepository, PersonaRepository>();
             services.AddScoped<IDireccionRepository, DireccionRepository>();
-            //services.AddScoped<IContactoRepository, ContactoRepository>();
+            services.AddScoped<IContactoRepository, ContactoRepository>();
 
             services.AddScoped<PersonasContext>();
 

@@ -1,0 +1,62 @@
+*** CREAR
+
+{
+  "rut": "17413662",
+  "nombre": "ANIBAL",
+  "apellidoPaterno": "YAÑEZ",
+  "apellidoMaterno": "MORAGA",
+  "fechaNacimiento": "1989-10-24",
+  "genero": "MASCULINO"
+}
+
+*** MODIFICAR
+
+{
+  "id": "e17d258b-ef5f-4fbc-8c6e-8d0845c7df20",
+  "nombre": "ALEXANDER",
+  "apellidoPaterno": "YAÑEZ",
+  "apellidoMaterno": "MORAGA",
+  "fechaNacimiento": "2023-12-24",
+  "genero": "MASCULINO"
+}
+
+
+******************************************************
+*** DIRECCIÓN 
+
+*** CREAR
+{
+  "idPersona": "9b87317f-cc9b-4931-bed7-7e31f7a09c4d",
+  "calle": "LOS CEREZOS",
+  "numero": "6237",
+  "numeroCasaDepartamento": "206",
+  "comuna": "PEÑALOLEN"
+}
+
+*** MODIFICAR 
+
+{
+  "id": "6010d182-c388-4875-9466-d057cb7dfd3c",
+  "calle": "LOS TALLADORES",
+  "numero": "5998",
+  "numeroCasaDepartamento": "101",
+  "comuna": "LA FLORIDA"
+}
+
+******************************************************
+CONTACTO 
+
+*** CREAR 
+{
+  "idPersona": "18fd9c11-d359-44f1-abec-d8262d935995",
+  "celular": "+56944440355",
+  "email": "ANIBALIYM@GMAIL.COM",
+  "tipoContacto": "PARTICULAR"
+}
+
+*** MODIFICAR 
+
+
+
+
+

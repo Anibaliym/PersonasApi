@@ -33,7 +33,7 @@ namespace Personas.Infra.Data.PostgreSQL.Context
 
             modelBuilder.ApplyConfiguration(new PersonaMap());
             modelBuilder.ApplyConfiguration(new DireccionMap());
-            //modelBuilder.ApplyConfiguration(new ContactoMap());
+            modelBuilder.ApplyConfiguration(new ContactoMap());
 
             base.OnModelCreating(modelBuilder);
         }

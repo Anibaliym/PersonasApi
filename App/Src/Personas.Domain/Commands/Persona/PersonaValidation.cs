@@ -1,6 +1,4 @@
 ﻿using FluentValidation;
-using Personas.Domain.Commands.CommonValidators;
-using Personas.Domain.Enumerations.Persona;
 
 namespace Personas.Domain.Commands.Persona
 {
