@@ -1,0 +1,23 @@
+{
+  "persona": {
+    "rut": "17413662",
+    "nombre": "ANIBAL",
+    "apellidoPaterno": "YAÑEZ",
+    "apellidoMaterno": "MORAGA",
+    "fechaNacimiento": "1989-10-24",
+    "genero": "MASCULINO"
+  },
+  "direccion": {
+    "idPersona": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "calle": "LOS CEREZOS",
+    "numero": "6237",
+    "numeroCasaDepartamento": "206",
+    "comuna": "PEÑALOLEN"
+  },
+  "contacto": {
+    "idPersona": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "celular": "+56944440355",
+    "email": "ANIBALIYM@GMAIL.COM",
+    "tipoContacto": "PERSONAL"
+  }
+}

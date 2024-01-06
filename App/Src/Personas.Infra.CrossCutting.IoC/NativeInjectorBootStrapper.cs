@@ -82,6 +82,7 @@ namespace Personas.Infra.CrossCutting.IoC
             services.AddScoped<IPersonaRepository, PersonaRepository>();
             services.AddScoped<IDireccionRepository, DireccionRepository>();
             services.AddScoped<IContactoRepository, ContactoRepository>();
+            services.AddScoped<IServiciosDominiosAppService, ServiciosDeDominioAppService>();
 
             services.AddScoped<PersonasContext>();
 

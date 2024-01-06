@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Personas.Service.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c4b5a5f7c6acc41d9afd639c9d934c6877e06ec")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05729e1bc71c97bf3d25a4b8a36d6191214d9b42")]
 [assembly: System.Reflection.AssemblyProductAttribute("Personas.Service.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Personas.Service.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

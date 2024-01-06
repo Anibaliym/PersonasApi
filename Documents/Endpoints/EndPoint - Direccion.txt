@@ -1,0 +1,18 @@
+*** CREAR
+{
+  "idPersona": "9b87317f-cc9b-4931-bed7-7e31f7a09c4d",
+  "calle": "LOS CEREZOS",
+  "numero": "6237",
+  "numeroCasaDepartamento": "206",
+  "comuna": "PEÑALOLEN"
+}
+
+*** MODIFICAR 
+
+{
+  "id": "6010d182-c388-4875-9466-d057cb7dfd3c",
+  "calle": "LOS TALLADORES",
+  "numero": "5998",
+  "numeroCasaDepartamento": "101",
+  "comuna": "LA FLORIDA"
+}

@@ -1,8 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Personas.Application.EventSourcedNormalizers.Contacto;
-using Personas.Application.EventSourcedNormalizers.Persona;
 using Personas.Application.Interfaces;
-using Personas.Application.Services;
 using Personas.Application.ViewModels.Contacto;
 
 namespace Personas.Service.Api.Controllers
