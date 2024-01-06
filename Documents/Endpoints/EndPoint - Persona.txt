@@ -1,0 +1,21 @@
+*** CREAR
+
+{
+  "rut": "17413662",
+  "nombre": "ANIBAL",
+  "apellidoPaterno": "YAÑEZ",
+  "apellidoMaterno": "MORAGA",
+  "fechaNacimiento": "1989-10-24",
+  "genero": "MASCULINO"
+}
+
+*** MODIFICAR
+
+{
+  "id": "e17d258b-ef5f-4fbc-8c6e-8d0845c7df20",
+  "nombre": "ALEXANDER",
+  "apellidoPaterno": "YAÑEZ",
+  "apellidoMaterno": "MORAGA",
+  "fechaNacimiento": "2023-12-24",
+  "genero": "MASCULINO"
+}

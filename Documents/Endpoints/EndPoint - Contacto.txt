@@ -1,0 +1,16 @@
+*** CREAR 
+{
+  "idPersona": "18fd9c11-d359-44f1-abec-d8262d935995",
+  "celular": "+56944440355",
+  "email": "ANIBALIYM@GMAIL.COM",
+  "tipoContacto": "PARTICULAR"
+}
+
+*** MODIFICAR 
+
+{
+  "id": "663df4f2-ab48-4718-8e42-c62fb6ce05c7",
+  "celular": "+56950060636",
+  "email": "ANIBALIYM@HOTMAIL.COM",
+  "tipoContacto": "LABORAL"
+}
