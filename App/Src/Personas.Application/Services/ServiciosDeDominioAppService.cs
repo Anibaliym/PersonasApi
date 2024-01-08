@@ -48,7 +48,6 @@ namespace Personas.Application.Services
         {
             Guid idPersona_creada = Guid.NewGuid();
             Guid idDireccion = Guid.NewGuid();
-            Guid idContacto = Guid.NewGuid();
 
             CommandResponse response = new();
             CommandResponse responseCrearPersona = new CommandResponse();
