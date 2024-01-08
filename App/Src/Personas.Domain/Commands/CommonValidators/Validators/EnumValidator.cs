@@ -1,6 +1,6 @@
 ﻿using Ardalis.SmartEnum;
 
-namespace Personas.Domain.Commands.CommonValidators.Validators
+namespace Personas.Domain.CommonValidators.Validators
 {
     public static partial class CommonValidator
     {
@@ -11,3 +11,4 @@ namespace Personas.Domain.Commands.CommonValidators.Validators
         }
     }
 }
+
