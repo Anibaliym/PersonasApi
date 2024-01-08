@@ -5,7 +5,7 @@ using System.ComponentModel;
 
 namespace Personas.Application.ViewModels.ServiciosDeDominio
 {
-    public class Crear_PersonaDireccionContactoViewModel
+    public class Crear_PersonaContactoDireccionViewModel
     {
         [DisplayName("Información de la persona")]
         public PersonaCrearViewModel Persona { get; set; }

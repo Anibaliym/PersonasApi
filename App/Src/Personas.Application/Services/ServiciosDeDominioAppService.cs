@@ -36,15 +36,15 @@ namespace Personas.Application.Services
 
             response.Persona = await _personaRepository.BuscaPorId(idPersona);
 
-            if (response.Persona == null) return null; 
+            if (response.Persona == null) return null;
 
             response.Direccion = await _direccionRepository.BuscaPorIdPersona(idPersona);
             response.Contacto = await _contactoRepository.BuscaPorIdPersona(idPersona);
 
-            return response; 
+            return response;
         }
 
-        public async Task<CommandResponse> CrearPersonaDireccionContacto(Crear_PersonaDireccionContactoViewModel modelo)
+        public async Task<CommandResponse> CrearPersonaCon_DireccionYContacto(Crear_PersonaContactoDireccionViewModel modelo)
         {
             Guid idPersona_creada = Guid.NewGuid();
 
@@ -67,7 +67,7 @@ namespace Personas.Application.Services
                 foreach (var item in responseCrearPersona.ValidationResult.Errors)
                     response.ValidationResult.Errors.Add(item);
 
-                return response; 
+                return response;
             }
 
             //Obtiene el id de la persona creada recientemente.
@@ -127,24 +127,26 @@ namespace Personas.Application.Services
 
             #endregion
 
-            if (responseCrearPersona.Result & responseCrearDireccion.Result & responseCrearContacto.Result) {
+            if (responseCrearPersona.Result & responseCrearDireccion.Result & responseCrearContacto.Result)
+            {
                 response.Result = true;
 
-                response.Data = new { 
+                response.Data = new
+                {
                     Persona = responseCrearPersona.Data,
                     Direccion = responseCrearDireccion.Data,
                     Contacto = responseCrearContacto.Data,
-                }; 
+                };
             }
 
-            return response; 
+            return response;
         }
 
         public async Task<CommandResponse> EliminarPersonaDireccionContacto(Guid idPersona)
         {
             CommandResponse response = new();
             FluentValidation.Results.ValidationFailure item = new FluentValidation.Results.ValidationFailure();
-            
+
             Guid idDireccion = Guid.NewGuid();
             Guid idContacto = Guid.NewGuid();
 
@@ -152,7 +154,7 @@ namespace Personas.Application.Services
             CommandResponse responseEliminarDireccion = new CommandResponse();
             CommandResponse responseEliminarContacto = new CommandResponse();
 
-            var persona = await _personaRepository.BuscaPorId(idPersona); 
+            var persona = await _personaRepository.BuscaPorId(idPersona);
             var direccion = await _direccionRepository.BuscaPorIdPersona(idPersona);
             var contactos = await _contactoRepository.BuscaPorIdPersona(idPersona);
 
@@ -167,7 +169,7 @@ namespace Personas.Application.Services
             }
             else
             {
-                item.ErrorMessage = $"La persona con el id { idPersona }, no existe. operación cancelada";
+                item.ErrorMessage = $"La persona con el id {idPersona}, no existe. operación cancelada";
 
                 response.Result = false;
                 response.ValidationResult.Errors.Add(item);
@@ -176,13 +178,16 @@ namespace Personas.Application.Services
             }
 
             //se elimina el registro dirección en el caso que exista, creado previamente
-            if (direccion != null) { 
+            if (direccion != null)
+            {
                 var direccionRemoveCommand = _mapper.Map<DireccionEliminarCommand>(idDireccion);
                 responseEliminarDireccion = await _mediator.SendCommand(direccionRemoveCommand);
             }
 
-            if (contactos.Count > 0) { 
-                foreach (var contacto in contactos) {
+            if (contactos.Count > 0)
+            {
+                foreach (var contacto in contactos)
+                {
                     //se eliminan los registros de contactos en el caso que existan.
                     var contactoRemoveCommand = _mapper.Map<ContactoEliminarCommand>(contacto.Id);
                     responseEliminarContacto = await _mediator.SendCommand(contactoRemoveCommand);
@@ -193,7 +198,6 @@ namespace Personas.Application.Services
 
             return response;
         }
-
         public void Dispose()
         {
             GC.SuppressFinalize(this);

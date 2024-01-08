@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Personas.Domain.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c4b5a5f7c6acc41d9afd639c9d934c6877e06ec")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c101564d46ccaeafee56cc6b9de7b3f2820898bd")]
 [assembly: System.Reflection.AssemblyProductAttribute("Personas.Domain.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Personas.Domain.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

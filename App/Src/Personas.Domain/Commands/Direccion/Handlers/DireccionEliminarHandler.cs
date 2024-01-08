@@ -1,7 +1,7 @@
 ﻿using MediatR;
 using Personas.Domain.Commands.Direccion.Commands;
 using Personas.Domain.Core.Messaging;
-using Personas.Domain.Events.Persona.Events;
+using Personas.Domain.Events.Direccion.Events;
 
 namespace Personas.Domain.Commands.Direccion.Handlers
 {
@@ -19,7 +19,7 @@ namespace Personas.Domain.Commands.Direccion.Handlers
                 return CommandResponse;
             }
 
-            existeDireccion.AddDomainEvent(new PersonaEliminarEvent(existeDireccion.Id));
+            existeDireccion.AddDomainEvent(new DireccionEliminarEvent(existeDireccion.Id));
 
             _direccionRepository.Eliminar(existeDireccion);
 

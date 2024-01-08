@@ -1,8 +1,7 @@
 ﻿using MediatR;
 using Personas.Domain.Commands.Contacto.Commands;
 using Personas.Domain.Core.Messaging;
-using Personas.Domain.Events.Persona.Events;
-using Personas.Domain.Interfaces;
+using Personas.Domain.Events.Contacto.Events;
 
 namespace Personas.Domain.Commands.Contacto.Handlers
 {
@@ -20,7 +19,7 @@ namespace Personas.Domain.Commands.Contacto.Handlers
                 return CommandResponse;
             }
 
-            existeContacto.AddDomainEvent(new PersonaEliminarEvent(existeContacto.Id));
+            existeContacto.AddDomainEvent(new ContactoEliminarEvent(existeContacto.Id));
 
             _contactoRepository.Eliminar(existeContacto);
 

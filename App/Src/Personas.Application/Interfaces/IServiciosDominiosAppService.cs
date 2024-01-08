@@ -5,10 +5,8 @@ namespace Personas.Application.Interfaces
 {
     public interface IServiciosDominiosAppService : IDisposable
     {
-        Task<CommandResponse> CrearPersonaDireccionContacto(Crear_PersonaDireccionContactoViewModel modelo);
-
-        Task<CommandResponse> EliminarPersonaDireccionContacto(Guid idPersona);
-
+        Task<CommandResponse> CrearPersonaCon_DireccionYContacto(Crear_PersonaContactoDireccionViewModel modelo);
         Task<Obtener_PersonaDireccionContactoViewModel> BuscaTodaInformacionPersonal_Persona(Guid idPersona);
+        Task<CommandResponse> EliminarPersonaDireccionContacto(Guid idPersona);
     }
 }
