@@ -29,7 +29,6 @@ namespace Personas.Domain.Commands.Contacto
         }
         protected void ValidaTipoContacto()
         {
-            //ayanez - por revisar error
             RuleFor(contacto => contacto.TipoContacto)
                 .NotEmpty().WithMessage("Por favor asegurese que el 'Genero' no este vacio")
                 .Must(CommonValidator.ValidadorDeEnumeraciones<TipoContactoEnum>).WithMessage("El 'TipoContacto' debe estar entre los valores permitidos ('MASCULINO','FEMENINO').");
