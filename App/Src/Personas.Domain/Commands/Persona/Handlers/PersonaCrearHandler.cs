@@ -16,7 +16,7 @@ namespace Personas.Domain.Commands.Persona.Handlers
 
             if (existePersonaPorRut != null)
             {
-                AddError($"La persona con el campo 'RUT' ({message.Rut}), ya existe.");
+                AddError($"La persona con el campo 'RUT' ({message.Rut}), ya existe. Operación cancelada.");
                 return CommandResponse;
             }
 

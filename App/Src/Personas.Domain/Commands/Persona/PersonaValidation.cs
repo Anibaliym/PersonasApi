@@ -1,4 +1,6 @@
 ﻿using FluentValidation;
+using Personas.Domain.CommonValidators.Validators;
+using Personas.Domain.Enumerations.Persona;
 
 namespace Personas.Domain.Commands.Persona
 {
@@ -38,11 +40,9 @@ namespace Personas.Domain.Commands.Persona
 
         protected void ValidaGenero()
         {
-
-            //ayanez - por revisar error
-            //RuleFor(persona => persona.Genero)
-            //    .NotEmpty().WithMessage("Por favor asegurese que el 'Genero' no este vacio")
-            //    .Must(CommonValidator.ValidadorDeEnumeraciones<GeneroEnum>).WithMessage("El 'Genero' debe estar entre los valores permitidos ('MASCULINO','FEMENINO').");
+            RuleFor(persona => persona.Genero)
+                .NotEmpty().WithMessage("Por favor asegurese que el 'Genero' no este vacio")
+                .Must(CommonValidator.ValidadorDeEnumeraciones<GeneroEnum>).WithMessage("El 'Genero' debe estar entre los valores permitidos ('MASCULINO','FEMENINO').");
         }
     }
 }

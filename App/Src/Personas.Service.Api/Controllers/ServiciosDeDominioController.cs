@@ -20,10 +20,10 @@ namespace Personas.Service.Api.Controllers
             return await _ServiciosDominiosAppService.BuscaTodaInformacionPersonal_Persona(idPersona);
         }
 
-        [HttpPost("CrearPersonaDireccionContacto")]
-        public async Task<IActionResult> CrearTransitoConDetalle(Crear_PersonaDireccionContactoViewModel modelo)
+        [HttpPost("CrearPersonaCon_DireccionYContacto")]
+        public async Task<IActionResult> CrearPersonaCon_DireccionYContacto(Crear_PersonaContactoDireccionViewModel modelo)
         {
-            return !ModelState.IsValid ? CustomResponse(ModelState) : CustomResponse(await _ServiciosDominiosAppService.CrearPersonaDireccionContacto(modelo));
+            return !ModelState.IsValid ? CustomResponse(ModelState) : CustomResponse(await _ServiciosDominiosAppService.CrearPersonaCon_DireccionYContacto(modelo));
         }
 
         [HttpDelete("EliminarContactoPersona/{idPersona:Guid}")]
