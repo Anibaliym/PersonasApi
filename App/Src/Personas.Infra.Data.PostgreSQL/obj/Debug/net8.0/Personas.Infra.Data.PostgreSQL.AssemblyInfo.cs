@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Personas.Infra.Data.PostgreSQL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c101564d46ccaeafee56cc6b9de7b3f2820898bd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+77ae1e07a04dd4810763c0521fc34b2aae0e701d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Personas.Infra.Data.PostgreSQL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Personas.Infra.Data.PostgreSQL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

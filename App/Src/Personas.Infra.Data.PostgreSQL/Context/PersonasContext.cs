@@ -51,6 +51,7 @@ namespace Personas.Infra.Data.PostgreSQL.Context
             // After executing this line all the changes (from the Command Handler and Domain Event Handlers) 
             // performed through the DbContext will be committed
             var success = await SaveChangesAsync() > 0;
+            ChangeTracker.Clear();
 
             return success;
         }

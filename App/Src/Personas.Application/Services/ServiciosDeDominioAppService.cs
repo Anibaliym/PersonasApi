@@ -47,6 +47,8 @@ namespace Personas.Application.Services
         public async Task<CommandResponse> CrearPersonaCon_DireccionYContacto(Crear_PersonaContactoDireccionViewModel modelo)
         {
             Guid idPersona_creada = Guid.NewGuid();
+            Guid idDireccion = Guid.NewGuid();
+            Guid idContacto = Guid.NewGuid();
 
             CommandResponse response = new();
             CommandResponse responseCrearPersona = new CommandResponse();
@@ -86,13 +88,15 @@ namespace Personas.Application.Services
             var direccionRegisterCommand = _mapper.Map<DireccionCrearCommand>(direccionCrear);
             responseCrearDireccion = await _mediator.SendCommand(direccionRegisterCommand);
 
+            idDireccion = Guid.Parse(responseCrearDireccion?.Data?.GetType()?.GetProperty("Id")?.GetValue(responseCrearDireccion?.Data)?.ToString());
+
             if (responseCrearDireccion.Result == false)
             {
                 foreach (var item in responseCrearDireccion.ValidationResult.Errors)
                     response.ValidationResult.Errors.Add(item);
 
                 //se elimina el registro persona, creado previamente
-                var personaRemoveCommand = _mapper.Map<PersonaEliminarCommand>(idPersona_creada);
+                var personaRemoveCommand = _mapper.Map<PersonaEliminarCommand>(idDireccion);
                 responseEliminarPersona = await _mediator.SendCommand(personaRemoveCommand);
 
                 return response;
@@ -109,6 +113,7 @@ namespace Personas.Application.Services
             var contactoRegisterCommand = _mapper.Map<ContactoCrearCommand>(contactoCrear);
             responseCrearContacto = await _mediator.SendCommand(contactoRegisterCommand);
 
+
             if (responseCrearContacto.Result == false)
             {
                 foreach (var item in responseCrearContacto.ValidationResult.Errors)
@@ -119,7 +124,7 @@ namespace Personas.Application.Services
                 responseEliminarPersona = await _mediator.SendCommand(personaRemoveCommand);
 
                 //se elimina el registro dirección, creado previamente
-                var direccionRemoveCommand = _mapper.Map<DireccionEliminarCommand>(idPersona_creada);
+                var direccionRemoveCommand = _mapper.Map<DireccionEliminarCommand>(idDireccion);
                 responseEliminarDireccion = await _mediator.SendCommand(direccionRemoveCommand);
 
                 return response;
